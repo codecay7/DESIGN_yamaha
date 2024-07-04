@@ -129,7 +129,7 @@ nav img {
 }
 
 video {
-  filter: blur(1px) contrast(150%);
+/*   filter: blur(1px) contrast(150%); */
 
   object-fit: cover;
   position: absolute;
